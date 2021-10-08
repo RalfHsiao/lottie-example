@@ -1,0 +1,9 @@
+{
+  "name": "lottie-example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "http-server": "^13.0.2"
+  }
+}
